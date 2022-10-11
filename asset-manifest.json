@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awesome.kg/static/css/main.5e41044a.css",
+    "main.js": "/awesome.kg/static/js/main.36f51ac9.js",
+    "index.html": "/awesome.kg/index.html",
+    "main.5e41044a.css.map": "/awesome.kg/static/css/main.5e41044a.css.map",
+    "main.36f51ac9.js.map": "/awesome.kg/static/js/main.36f51ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.36f51ac9.js"
+  ]
+}
